@@ -15,6 +15,6 @@ jobs:
           node-version: '18.x'
       - name: backend build
         run: cd backend;npm install;
-      - name: fronend build
+      - name: frontend build
         run: cd front;npm install;
 
