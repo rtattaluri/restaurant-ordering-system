@@ -16,5 +16,5 @@ jobs:
       - name: backend build
         run: cd backend;npm install;
       - name: frontend build
-        run: cd front;npm install;
+        run: cd frontend;npm install;
 
